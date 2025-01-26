@@ -1,2 +1,7 @@
+# JPF configuration file for HelloWorld
 target=HelloWorld
-classpath=/Users/zhamri/Documents/JavaProjects/stiw3054_pathfinder/out/production/stiw3054_pathfinder
+classpath=C:/xampp/htdocs/stiw3054_pathfinder/out/production/stiw3054_pathfinder
+sourcepath=C:/xampp/htdocs/stiw3054_pathfinder/src
+
+# Use default VM
+vm.class=gov.nasa.jpf.vm.SingleProcessVM
